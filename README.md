@@ -1,10 +1,16 @@
 # Hangman Game
 
-> This project is part of our [Introduction to Python Programming course](https://rmotr.com/introduction-to-python-programming)
+> This project is part of our [Data Science](https://rmotr.com/data-science-python-course) and [Web Development](https://rmotr.com/web-development-django-python-course) courses.
 
 <p align="center">
-  <b><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">Complete Walkthrough solution</a></b>
+  <b><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
+    <img src="https://i.ytimg.com/vi/iEEazSy67sQ/hqdefault.jpg"></a></b>
 </p>
+<p align="center">
+  <i><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
+    Complete Walkthrough solution</a></i>
+</p>
+
 
 For today's project, we'll be rewriting our previous Hangman Game using OOP. We'll explore **fundamental object oriented design** concepts.
 
