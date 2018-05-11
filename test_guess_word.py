@@ -4,9 +4,9 @@ from hangman.exceptions import *
 
 
 def test_guessed_word_interface():
-    word = GuessWord('xyz')
-    assert word.answer == 'xyz'
-    assert word.masked == '***'
+    obj = GuessWord('xyz')
+    assert obj.answer == 'xyz'
+    assert obj.masked == '***'
 
 
 def test_guess_word_with_empty_word():
